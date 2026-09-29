@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Kimi 远程访问入口模块"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "Kimi 全屏访问"
+    },
+    {
+      "name": "app_name",
+      "value": "KimiCode"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于访问你填写的 Kimi 远程地址，加载网页内容"
+    },
+    {
+      "name": "setup_title",
+      "value": "配置访问地址"
+    },
+    {
+      "name": "setup_hint",
+      "value": "请输入 Kimi 远程访问地址"
+    },
+    {
+      "name": "setup_placeholder",
+      "value": "https:// 或 http:// 开头"
+    },
+    {
+      "name": "setup_save",
+      "value": "保存并进入"
+    },
+    {
+      "name": "setup_invalid",
+      "value": "地址格式不正确，需以 http:// 或 https:// 开头"
+    },
+    {
+      "name": "menu_refresh",
+      "value": "刷新当前页"
+    },
+    {
+      "name": "menu_edit",
+      "value": "修改访问地址"
+    },
+    {
+      "name": "menu_back",
+      "value": "返回上一页"
+    }
+  ]
+}
